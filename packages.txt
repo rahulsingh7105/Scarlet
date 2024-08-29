@@ -1,0 +1,20 @@
+pip install SpeechRecognition
+pip install pyttsx3
+pip install playsound
+pip install Pillow
+pip install pyscreenshot
+pip install pynput
+pip install psutil
+pip install opencv-contrib-python
+pip install opencv
+pip install wikipedia
+pip install webbrowser
+pip install bs4
+pip install smtplib
+pip install youtube_search
+pip install wmi
+pip install geopy
+pip install googletrans==3.1.0a0
+
+(Some packages will not install, because they are now come with Python Installation, so don't worry
+like, smtplib, webrowser, but give a try)
